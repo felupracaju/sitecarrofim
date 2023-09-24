@@ -1,0 +1,12 @@
+body {
+    background-image: url('estrada.jpg');
+    background-size: cover; 
+    background-repeat: no-repeat; 
+}
+
+nav a {
+    color: orangered; 
+
+    .container2 {
+        color: #FF0000; /* Substitua #FF0000 pela cor que você deseja. Isso representa vermelho. */
+    }
